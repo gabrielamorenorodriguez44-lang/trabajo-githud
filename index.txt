@@ -1,1 +1,4 @@
 comit 1
+# informacion del usuario
+telefono
+email
