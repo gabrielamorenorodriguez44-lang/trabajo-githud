@@ -2,3 +2,6 @@ comit 1
 # informacion del usuario
 telefono
 email
+
+iformacin del asesor
+enviar la informacin al coreo 123@gmail.com
